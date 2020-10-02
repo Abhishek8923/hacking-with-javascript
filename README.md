@@ -1,6 +1,6 @@
 ### 攀登JavaScript的高峰
 
-**欢迎贡献 fork and pull request :stuck_out_tongue_winking_eye:**
+**欢迎贡献  :stuck_out_tongue_winking_eye:**
 
 #### :books: 多读书
 + [**:book: Effective JavaScript**](https://github.com/dreamapplehappy/effective-javascript) **完成度: 100%**
